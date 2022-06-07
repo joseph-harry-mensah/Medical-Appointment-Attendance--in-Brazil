@@ -2,7 +2,7 @@
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. ● ‘ScheduledDay’ tells us on what day the patient booked their appointment.The ‘Neighborhood’ indicates the location of the hospital. ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. The last column of the dataset indicates ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up
 
-    Questions I seek to find answers through the exploratory analysis on this dataset are:
+    Questions I sought to find answers to through the exploratory data analysis on this dataset are:
 
     How many patients attended or did not attend their appointment?.
     What ages of patients attended their appointment or did not attend their appointments?.
