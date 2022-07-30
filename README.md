@@ -12,3 +12,11 @@ This dataset collects information from 100k medical appointments in Brazil and i
     What Scheduled Day Had the most Attendance of patient-appointments?
     How many patients are enrolled or not enrolled in Brasilian Welfare Program Bolsa Familia?
     Are no-show appointments associated with a certain gender
+
+
+# Packages Needed (in case you need to install before using code)
+## NB: If you already have `pip` package or `conda` package installed, install the packages below using the respective package install on your system.
+
+`pip install numpy`        or     `conda install numpy`
+`pip install pandas`       or     `conda install pandas`
+`pip install matplotlib`   or     `conda install matplotlib`
