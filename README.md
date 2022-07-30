@@ -15,7 +15,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 
 
 ## Packages Needed (Package Dependencies)
-_NB: If you already have `pip` package or `conda` package installed, install the packages below using the respective package install on your system_
+_NB: If you already have `pip` package or `conda` package installed on your system, continue to install this project's dependencies below using the respective package on your system_
 
 `pip install numpy`        or     `conda install numpy` <br>
 `pip install pandas`       or     `conda install pandas` <br>
