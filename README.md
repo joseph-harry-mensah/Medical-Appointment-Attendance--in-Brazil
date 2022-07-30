@@ -14,9 +14,9 @@ This dataset collects information from 100k medical appointments in Brazil and i
     Are no-show appointments associated with a certain gender
 
 
-# Packages Needed (in case you need to install before using code)
+# Packages Needed (Package Dependencies)
 ## NB: If you already have `pip` package or `conda` package installed, install the packages below using the respective package install on your system.
 
-`pip install numpy`        or     `conda install numpy`
-`pip install pandas`       or     `conda install pandas`
+`pip install numpy`        or     `conda install numpy` <br>
+`pip install pandas`       or     `conda install pandas` <br>
 `pip install matplotlib`   or     `conda install matplotlib`
