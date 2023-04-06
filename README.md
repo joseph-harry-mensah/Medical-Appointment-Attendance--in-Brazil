@@ -35,3 +35,4 @@ You can install these packages using either `pip` or `conda`. If you have `pip` 
 
 ```bash
 pip install numpy pandas matplotlib
+conda install numpy pandas matplotlib
