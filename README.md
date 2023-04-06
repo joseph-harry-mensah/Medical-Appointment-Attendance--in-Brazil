@@ -1,22 +1,28 @@
-# ALX-Investigate-A-Dataset-Project-1
+# Investigating No-Show Medical Appointments in Brazil
 
-This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. ● ‘ScheduledDay’ tells us on what day the patient booked their appointment.The ‘Neighborhood’ indicates the location of the hospital. ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. The last column of the dataset indicates ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
 
-   ### Questions I sought to find answers to through the exploratory data analysis on this dataset are:
+The `ScheduledDay` column tells us on what day the patient booked their appointment. The `Neighborhood` column indicates the location of the hospital. The `Scholarship` column indicates whether or not the patient is enrolled in the Brazilian welfare program Bolsa Família. The last column of the dataset indicates `No` if the patient showed up to their appointment, and `Yes` if they did not show up.
 
-> - How many patients attended or did not attend their appointment?.
-> - What ages of patients attended their appointment or did not attend their appointments?.
-> - Which Neighbourhoods (hospital locations) had both high patient-appointment attendance and low patient-appointment attendance?.
-> - Did patients who received an SMS attend or not attend their appointment?.
-> - Which Health Condition or Reason was most frequent in terms of patient-appointment attendance?.
-> - What Scheduled Day Had the most Attendance of patient-appointments?
-> - How many patients are enrolled or not enrolled in Brasilian Welfare Program Bolsa Familia?
-> - Are no-show appointments associated with a certain gender
+## Questions
 
+The following are the questions I sought to answer through exploratory data analysis on this dataset:
 
-## Packages Needed (Package Dependencies)
-_NB: If you already have `pip` package or `conda` package installed on your system, continue to install this project's dependencies below using the respective package on your system_
+- How many patients attended or did not attend their appointment?
+- What ages of patients attended or did not attend their appointments?
+- Which neighborhoods had both high patient-appointment attendance and low patient-appointment attendance?
+- Did patients who received an SMS attend or not attend their appointment?
+- What health condition or reason was most frequent in terms of patient-appointment attendance?
+- What scheduled day had the most attendance of patient-appointments?
+- How many patients are enrolled or not enrolled in the Brazilian welfare program Bolsa Família?
+- Are no-show appointments associated with a certain gender?
 
-- `pip install numpy`        or     `conda install numpy` <br>
-- `pip install pandas`       or     `conda install pandas` <br>
-- `pip install matplotlib`   or     `conda install matplotlib`
+## Dependencies
+
+The following Python packages were used for the analysis:
+
+- NumPy
+- Pandas
+- Matplotlib
+
+You can install these packages using either `pip` or `conda`.
